@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harden716
 - 👀 I’m interested in becoming a full stack web developer.
-- 🌱 I’m currently learning html, CSS, and Javascript.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 📫 How to reach me: paul.harden716@gmail.com
 
 <!---
